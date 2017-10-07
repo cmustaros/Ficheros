@@ -10,3 +10,6 @@ En resumen, se crean estos 3 ficheros:
 * ejemplortf.rtf
 * ejemploxml.xml
 * ejemplohtml.html
+
+
+https://rawgit.com/cmustaros/Ficheros/master/ejemplohtml.html
