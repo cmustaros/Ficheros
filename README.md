@@ -22,9 +22,9 @@ Dicho enlace es el siguiente: https://rawgit.com/cmustaros/Ficheros/master/ejemp
 
 **Referencias**
 
-1. (http://www.markdowntutorial.com/)
-2. (https://guides.github.com/features/mastering-markdown/)
-3. (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. http://www.markdowntutorial.com/
+2. https://guides.github.com/features/mastering-markdown/
+3. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 
