@@ -7,7 +7,7 @@ A continuación se ha modificado la extensión de dicho fichero a .rtf (anterior
 Se ha repetido este último paso para obtener un segundo fichero, ahora con extensión .xml y se ha vuelto a comprobar que funciona con un procesador de texto.
 De nuevo se realiza el mismo paso para la última extensión que interesa, un archivo .html, comprobando otra vez su correcto funcionamiento.
 En resumen, se crean estos 3 ficheros:
-* ejemplortf.rtf
+* ejemplortf.rtf  [ejemplortf.rtf](https://github.com/cmustaros/Ficheros/blob/master/ejemplortf.rtf)
 * ejemploxml.xml
 * ejemplohtml.html
 
