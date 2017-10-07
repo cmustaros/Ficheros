@@ -8,3 +8,5 @@ Se ha repetido este último paso para obtener un segundo fichero, ahora con exte
 De nuevo se realiza el mismo paso para la última extensión que interesa, un archivo .html, comprobando otra vez su correcto funcionamiento.
 En resumen, se crean estos 3 ficheros:
 * ejemplortf.rtf
+* ejemploxml.xml
+* ejemplohtml.html
