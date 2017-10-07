@@ -14,7 +14,7 @@ En resumen, se crean estos 3 ficheros:
 * [ejemploxml.xml](https://github.com/cmustaros/Ficheros/blob/master/ejemploxml.xml)
 * [ejemplohtml.html](https://github.com/cmustaros/Ficheros/blob/master/ejemplohtml.html)
 
-Estos ficheros se suben a un repositorio en **[Github](https://github.com/)**, previo registro y estudio del funcionamiento de dicha página web y del lenguaje **Markdown**, ayudando a la redacción de este trabajo.
+Estos ficheros se suben a un repositorio en **[Github](https://github.com/)**, previo registro y estudio del funcionamiento de dicha página web y del lenguaje **Markdown**, que permite elaborar textos para una fácil lectura, disponiendo de herramientas como *Encabezado, Énfasis, Listas Ordenadas o No ordenadas, Enlaces,...*
 
 Por último se ha obtenido el enlace al fichero [ejemplohtml.html](https://github.com/cmustaros/Ficheros/blob/master/ejemplohtml.html) desde la página web **[RawGit](https://rawgit.com/)**, simplemente copiando desde [Github](https://github.com/) la URL del enlace del archivo .html y pegando en [RawGit](https://rawgit.com/) para generarlo.
 
