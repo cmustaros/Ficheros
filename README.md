@@ -20,6 +20,8 @@ Por último se ha obtenido el enlace al fichero [html.html](https://github.com/c
 
 Dicho enlace es el siguiente: https://rawgit.com/cmustaros/Ficheros/master/html.html
 
+Concluyendo, esta tarea ha sido útil para descubrir la plataforma Github y las posibilidades de guardar proyectos dentro de ella, aprender y familiarizarse con la edición de texto mediante Markdown y visualizar las diferencias entre algunos lenguajes de marcas.
+
 **Referencias**
 
 1. http://www.markdowntutorial.com/
