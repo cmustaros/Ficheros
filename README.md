@@ -14,13 +14,13 @@ En resumen, se crean estos 3 ficheros:
 * [xml.xml](https://github.com/cmustaros/Ficheros/blob/master/xml.xml)
 * [html.html](https://github.com/cmustaros/Ficheros/blob/master/html.html)
 
-Estos ficheros se suben a un repositorio en **[Github](https://github.com/)**, previo registro y estudio del funcionamiento de dicha página web y del lenguaje **Markdown**, que permite elaborar textos para una fácil lectura en la web, disponiendo de herramientas como *Encabezado, Énfasis, Listas Ordenadas o No ordenadas, Enlaces,...*
+Estos ficheros se suben a un repositorio en **[Github](https://github.com/)**, previo registro y estudio del funcionamiento de dicha página web (Github es una plataforma que permite alojar proyectos en la web gratuitamente de forma pública) y del lenguaje **Markdown**, que permite elaborar textos para una fácil lectura en la web, disponiendo de herramientas como *Encabezado, Énfasis, Listas Ordenadas o No ordenadas, Enlaces,...*
 
 Por último se ha obtenido el enlace al fichero [html.html](https://github.com/cmustaros/Ficheros/blob/master/html.html) desde la página web **[RawGit](https://rawgit.com/)**, simplemente copiando desde [Github](https://github.com/) la URL del enlace del archivo .html y pegando en [RawGit](https://rawgit.com/) para generarlo.
 
 Dicho enlace es el siguiente: https://rawgit.com/cmustaros/Ficheros/master/html.html
 
-Concluyendo, esta tarea ha sido útil para descubrir la plataforma Github y las posibilidades de guardar proyectos dentro de ella, aprender y familiarizarse con la edición de texto mediante Markdown y visualizar las diferencias entre algunos lenguajes de marcas.
+Concluyendo, esta tarea ha sido útil para descubrir la plataforma Github y las posibilidades de guardar proyectos dentro de ella de forma gratuita y poder así facilitar un trabajo en equipo, aprender y familiarizarse con la edición de texto mediante Markdown y visualizar las diferencias entre algunos lenguajes de marcas.
 
 **Referencias**
 
